@@ -20,6 +20,6 @@
     "electron": "^9.0.0"
   },
   "dependencies": {
-    "corelib-test": "file:../corelib-test/corelib-test-0.1.147.tgz"
+    "corelib-test": "file:../electron-native-addon-89-corelib/corelib-test-0.0.1-electron900.tgz"
   }
 }
