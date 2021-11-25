@@ -17,7 +17,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^8.5.5"
+    "electron": "^16.0.2"
   },
   "dependencies": {
     "corelib-test": "file:../electron-native-addon-89-corelib/corelib-test-0.0.1-electron855.tgz"
